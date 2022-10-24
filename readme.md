@@ -6,7 +6,7 @@
 
 - [Introduction](#introduction)
 - [Features](#features)
-- [Required hardware](#required hardware)
+- [Required hardware](#required-hardware)
 - [Disclaimer](#disclaimer)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
@@ -38,7 +38,7 @@ Layout supported by the default plate.
     <img src = "https://github.com/ojthetiny/Open-60/blob/main/images/Layout%20support.jpg">
 </p>
 
-## Required Hardware
+## Required-Hardware
 
 - Everything from the "[case-files](https://github.com/ojthetiny/Open-60/tree/main/case-files)" directory.
 - A PCB of your choosing. I recommend the [SST60](https://github.com/dededecline/SST60), however any Bakeneko supporting PCB should work.
