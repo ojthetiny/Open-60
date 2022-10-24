@@ -1,4 +1,4 @@
-<h1 align="center"> GitPoint </h1> <br>
+<h1 align="center"> Open 60 </h1> <br>
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
@@ -13,7 +13,6 @@
 
 ## Introduction
 
-[![All Contributors](https://img.shields.io/badge/all_contributors-73-orange.svg?style=flat-square)](./CONTRIBUTORS.md)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 
 Back again with another fully open source keyboard project. This time with a 60% WKL layout.
