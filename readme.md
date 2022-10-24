@@ -6,8 +6,8 @@
 
 - [Introduction](#introduction)
 - [Features](#features)
-- [Required hardware](#hardware)
-- [Disclaime](#disclaimer)
+- [Required hardware](#required hardware)
+- [Disclaimer](#disclaimer)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -31,7 +31,7 @@ Back again with another fully open source keyboard project. This time with a 60%
 * [SKUF Feet](https://github.com/Zambumon/SKUF).
 * Weight with engravings.
 * Very low front height (17.8mm AFH w/o feet).
-* Curved "Cherry lip"
+* Curved "Cherry lip".
 
 Layout supported by the default plate.
 <p align="center">
