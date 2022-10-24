@@ -1,5 +1,9 @@
 <h1 align="center"> Open 60 </h1> <br>
 
+<p align="center">
+  <img src = "https://github.com/ojthetiny/Open-60/blob/main/images/Open60.png">
+</p>
+
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 ## Table of Contents
@@ -18,7 +22,7 @@
 Back again with another fully open source keyboard project. This time with a 60% WKL layout.
 
 <p align="center">
-  <img src = "https://github.com/ojthetiny/Open-60/blob/main/images/Open60.png">
+    <img src = "https://github.com/ojthetiny/Open-60/blob/main/images/Layout%20support.jpg">
 </p>
 
 ## Features
@@ -31,11 +35,6 @@ Back again with another fully open source keyboard project. This time with a 60%
 * Weight with engravings.
 * Very low front height (17.8mm AFH w/o feet).
 * Curved "Cherry lip".
-
-Layout supported by the default plate.
-<p align="center">
-    <img src = "https://github.com/ojthetiny/Open-60/blob/main/images/Layout%20support.jpg">
-</p>
 
 ## Required-Hardware
 
